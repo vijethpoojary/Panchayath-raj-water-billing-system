@@ -1,2 +1,2 @@
 # Panchayath-raj-water-billing-system
-Author-Vijeth Poojary
+<h1>Author-Vijeth Poojary</h1>
